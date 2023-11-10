@@ -1,0 +1,20 @@
+/*
+    selector{
+        propiedad : valor;
+        propiedad : valor;
+    }
+*/
+body {
+    background-color: #FAF1E4;
+    color: violet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color: black;
+
+}
+
+h3{
+    color: red;
+}
